@@ -1,2 +1,8 @@
 pycspwrapper
 requests
+python-dotenv
+ipykernel
+polars
+matplotlib
+pillow
+numpy
