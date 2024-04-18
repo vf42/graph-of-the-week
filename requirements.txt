@@ -6,3 +6,7 @@ polars
 matplotlib
 pillow
 numpy
+plotly
+pandas
+pyarrow
+nbformat
